@@ -38,7 +38,7 @@ Embark on a seamless learning journey with our MERN stack platform, inspired by 
 - Create a MongoDB account [here](https://www.mongodb.com/).
 - Create a new project and cluster.
 - Go to the dashboard and copy the connection string.
-- Go to .env file and save DB_LINK.
+- Go to .env file and save MONGO_URL.
 
 ## Installation
 
@@ -70,9 +70,7 @@ JWT_SECRET =
 SMTP_SERVICE =
 SMTP_HOST =
 SMTP_MAIL =
-SMTP_PASSWORD =
-
-    ````
+SMTP_PASSWORD =````
 
 4.  Run the app:
 
