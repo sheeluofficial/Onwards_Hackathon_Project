@@ -58,7 +58,7 @@ Embark on a seamless learning journey with our MERN stack platform, inspired by 
 3.  Create a `.env` file inside the root backend folder and add the following:
 
 
-    ````bash
+    ```bash
      PORT = 5000
      MONGO_URL=
     TWILIO_ACCOUNT_SID=
@@ -69,7 +69,8 @@ Embark on a seamless learning journey with our MERN stack platform, inspired by 
     SMTP_SERVICE =
     SMTP_HOST =
     SMTP_MAIL =
-    SMTP_PASSWORD =````
+    SMTP_PASSWORD =
+    ```
 
 4.  Run the app:
 
