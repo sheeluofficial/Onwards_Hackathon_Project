@@ -1,0 +1,13 @@
+- components
+  - Navbar
+  - LeftSidebar
+  - RightSidebar
+- pages
+  - / home
+  - /courses - courses page
+- routes
+  - AllRoutes
+  - PrivateRoute
+- ## theme
+- assets
+  - all the assets ( images , resources )
