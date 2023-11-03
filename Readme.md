@@ -59,18 +59,17 @@ Embark on a seamless learning journey with our MERN stack platform, inspired by 
 
 
     ````bash
-    PORT = 5000
-
-MONGO_URL=
-TWILIO_ACCOUNT_SID=
-TWILIO_AUTH_TOKEN=
-TWILIO_PHONE_NUMBER=
-COOKIE_EXPIRE =
-JWT_SECRET =
-SMTP_SERVICE =
-SMTP_HOST =
-SMTP_MAIL =
-SMTP_PASSWORD =````
+     PORT = 5000
+     MONGO_URL=
+    TWILIO_ACCOUNT_SID=
+    TWILIO_AUTH_TOKEN=
+    TWILIO_PHONE_NUMBER=
+    COOKIE_EXPIRE =
+    JWT_SECRET =
+    SMTP_SERVICE =
+    SMTP_HOST =
+    SMTP_MAIL =
+    SMTP_PASSWORD =````
 
 4.  Run the app:
 
